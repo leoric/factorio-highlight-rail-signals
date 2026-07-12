@@ -1,0 +1,51 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 2025-04-22
+  Fixes:
+    - Fix crash in opening cutscene.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.5
+Date: 2025-04-21
+  Changes:
+    - Now draws a "?" if the signal cannot divide rails and becomes a christmas light.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 2025-04-21
+  Changes:
+    - Now only rendered in alt-mode
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2025-04-21
+  Changes:
+    - Arrow is now drawn centered on the rail if the signal has no signal on the other side
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2025-04-21
+  Changes:
+    - Restored circle markings. Circles are now filled for legibility. Arrows are now drawn on the rails instead.
+    - Now draws a "?" if the signal is disconnected from rails.
+    - Now highlights signals when anything rail related is in the cursor.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2025-04-21
+  Changes:
+    - Now highlights signals using an arrow instead of a circle. Chain signals still have an additoinal circle for distinguishment.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2025-04-21
+  Features:
+    - Now highlights rail signal ghosts using white color
+    - Now draws an × to indicate signals marked for deconstruction
+    - Now draws two circles to distinguish chain signals
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2025-04-21
+  Fixes:
+    - Fix crash when deconstructing a rail signal
