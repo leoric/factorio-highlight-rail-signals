@@ -2,8 +2,8 @@
 	"name": "highlight-rail-signals",
 	"title": "Highlight rail signals",
 	"description": "Never miss a signal behind a tree again. Highlights rail signals in alt-mode.",
-	"version": "1.1.6",
+	"version": "1.1.7",
 	"author": "teemu",
-	"factorio_version": "2.0",
+	"factorio_version": "2.1",
 	"dependencies": ["base"]
 }

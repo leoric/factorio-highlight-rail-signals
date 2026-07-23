@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.7
+Date: 2026-07-12
+  Changes:
+    - Updated to Factorio 2.1. No code changes were required: entity_status, signal_state,
+      chain_signal_state and get_rail_segment_signal are all unaffected.
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.6
 Date: 2025-04-22
   Fixes:
